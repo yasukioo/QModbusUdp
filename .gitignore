@@ -1,0 +1,39 @@
+# Build outputs
+/build/
+/build-*/
+/out/
+/bin/
+/lib/
+
+# Design and local assets
+/design/
+
+# CMake
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+/CTestTestfile.cmake
+/Testing/
+/install_manifest.txt
+
+# Generated project files
+/.vs/
+/.vscode/
+/*.sln
+/*.vcxproj*
+/*.dir/
+
+# Qt Creator
+/*.pro.user
+/*.pro.user.*
+/*.qbs.user
+/*.creator
+/*.creator.user
+/*.creator.user.*
+
+# Logs and temp files
+*.log
+*.tmp
+*.user
+*.autosave
