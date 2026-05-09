@@ -22,7 +22,6 @@ include/QModbusUdp/   公共头文件
 src/                  库实现
 examples/             client_demo 与 server_demo
 tests/                编解码、数据模型、服务端、UDP 往返测试
-design/               设计稿与原型资源
 ```
 
 ### 依赖要求
@@ -198,7 +197,6 @@ include/QModbusUdp/   Public headers
 src/                  Library implementation
 examples/             client_demo and server_demo
 tests/                Codec, data model, server, and UDP roundtrip tests
-design/               Design assets and prototype files
 ```
 
 ### Requirements
